@@ -4,12 +4,6 @@
 Microsoft Purview Data Security Posture Management (DSPM) helps organizations discover, protect, and investigate sensitive data risks across their digital estate.
 It consolidates insights from the Microsoft Purview solutions such as Data Loss Prevention (DLP), Insider Risk Management, and Information Protection.
 
-## Recommendations to get started
-1. Assign permissions
-2. Run through the Setup tasks: Required and Recommended
-3. Review the Data Risk Assessment reports
-4. Review the Objectives and recommended Remediation plans
-5. Monitor Reports
 
 ### Prerequisites
 > The tasks below are in the list of setup tasks
