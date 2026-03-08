@@ -9,4 +9,4 @@ Microsoft Purview provides a unified data security foundation for AI adoption by
 
 ## Key Topics
 - DSPM
-- Addressing oversharing concerns
+- Addressing oversharing in M365
