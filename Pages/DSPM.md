@@ -31,7 +31,7 @@ It consolidates insights from the Microsoft Purview solutions such as Data Loss 
 - Data Risk Assessments - Identify potentially overshared items and remediate (ex: apply a label or remove a sharing link)
 ### Tasks and Actions
 - Setup tasks are listed by type: Required and Recommended
-- Select a recommended tasks to view details such as PAYG requirements, or policies included in the recommendation
+- Select a recommended task to view details such as PAYG requirements, or policies included in the recommendation
 - Offers a single-click option to create polices
 ### Reports
 - Use filters to narrow down the reports based on categories such as Exfiltration, Oversharing, AI, Data Discovery, Labeling protection and DLP
