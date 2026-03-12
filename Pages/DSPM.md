@@ -4,6 +4,12 @@
 Microsoft Purview Data Security Posture Management (DSPM) helps organizations discover, protect, and investigate sensitive data risks across their digital estate.
 It consolidates insights from the Microsoft Purview solutions such as Data Loss Prevention (DLP), Insider Risk Management, and Information Protection.
 
+## Objectives
+- Identify security risks in AI interactions - **Posture**
+- Monitor AI usage and enforce security policies - **AI Observability**
+- Protect sensitive data in AI-generated content - **Objectives & Remediation Plans**
+- Run data assessments to detect oversharing risks - **Discover**
+- Use reports to track AI activity and strengthen compliance - **Reports**
 
 ### Prerequisites
 > The tasks below are in the list of setup tasks
