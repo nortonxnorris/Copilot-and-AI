@@ -12,7 +12,7 @@ It consolidates insights from the Microsoft Purview solutions such as Data Loss 
 - Use reports to track AI activity and strengthen compliance - **Reports**
 
 ## Recommended Path
-- **Tasks and actions** - Start here and work your way through the list of required and recommended setup steps
+- **Tasks and actions** - Start here and work your way through the list of required and recommended tasks
 - **Posture** - Get an overview of your current posture, this is your decision guide
 - **Discover > Data Risk Assessments** - Next, assess and plan on remediation of items that are potentially overshared
 - **Objectives** - Review the list of objectives, and the recommended remediation plans
